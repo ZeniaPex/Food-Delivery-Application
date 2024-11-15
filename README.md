@@ -17,7 +17,10 @@ This repository contains the user interface design for a food delivery mobile ap
 Below are some key screens from the application:
 
 ### Home and Menu Screens
-![home](https://github.com/user-attachments/assets/5c3ba1d7-5751-4baf-bf5e-adeb4ea7e725)   ![home](https://github.com/user-attachments/assets/15d13f6c-5d80-4659-9170-da8bf1c40366)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/5c3ba1d7-5751-4baf-bf5e-adeb4ea7e725" width="45%" />
+  <img src="https://github.com/user-attachments/assets/15d13f6c-5d80-4659-9170-da8bf1c40366" width="45%" />
+</p>
 
 ### Item Detail and Cart Screens
 
