@@ -31,8 +31,10 @@ Below are some key screens from the application:
 
 
 ### Checkout and Order History Screens
-![Checkout Screen](screenshots/checkout.png)
-![Order History Screen](screenshots/order_history.png)
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/dc6c8eb8-847a-4f1c-b44f-08b7887c8866" alt="Image 1" style="width: 30%;"/>
+  <img src="https://github.com/user-attachments/assets/ebb838e1-ec9c-4b93-a095-651849e6f3bb" alt="Image 2" style="width: 30%;"/>
+</div>
 
 *Additional screenshots can be found in the `screenshots` folder.*
 
