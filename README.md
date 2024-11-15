@@ -41,6 +41,8 @@ Below are some key screens from the application:
   <img src="https://github.com/user-attachments/assets/b7bb40dd-824c-440b-81db-44ee37189a3c" alt="Search Screen" style="width: 30%;"/>
   <img src="https://github.com/user-attachments/assets/0f290837-f25c-4a00-a964-542d590d0e47" alt="Restaurant Detail Screen" style="width: 30%;"/>
 </div>
-![swiggy_tablet_ui](https://github.com/user-attachments/assets/aeaf5be0-7196-42b0-b987-d01afc12fa35)
-![swiggy_web_ui](https://github.com/user-attachments/assets/1f95801f-91aa-483c-b673-e1f83194ad4e)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/aeaf5be0-7196-42b0-b987-d01afc12fa35" alt="Swiggy Tablet UI"/>
+  <img src="https://github.com/user-attachments/assets/1f95801f-91aa-483c-b673-e1f83194ad4e" alt="Swiggy Web UI"/>
+</div>
 
